@@ -1,0 +1,13 @@
+C:\Users\james\OneDrive\Desktop\devCodeCamp\RPSLS C#\RPSLS_Game\RPSLS_Game\bin\Debug\netcoreapp3.1\RPSLS_Game.exe
+C:\Users\james\OneDrive\Desktop\devCodeCamp\RPSLS C#\RPSLS_Game\RPSLS_Game\bin\Debug\netcoreapp3.1\RPSLS_Game.deps.json
+C:\Users\james\OneDrive\Desktop\devCodeCamp\RPSLS C#\RPSLS_Game\RPSLS_Game\bin\Debug\netcoreapp3.1\RPSLS_Game.runtimeconfig.json
+C:\Users\james\OneDrive\Desktop\devCodeCamp\RPSLS C#\RPSLS_Game\RPSLS_Game\bin\Debug\netcoreapp3.1\RPSLS_Game.runtimeconfig.dev.json
+C:\Users\james\OneDrive\Desktop\devCodeCamp\RPSLS C#\RPSLS_Game\RPSLS_Game\bin\Debug\netcoreapp3.1\RPSLS_Game.dll
+C:\Users\james\OneDrive\Desktop\devCodeCamp\RPSLS C#\RPSLS_Game\RPSLS_Game\bin\Debug\netcoreapp3.1\RPSLS_Game.pdb
+C:\Users\james\OneDrive\Desktop\devCodeCamp\RPSLS C#\RPSLS_Game\RPSLS_Game\obj\Debug\netcoreapp3.1\RPSLS_Game.csproj.AssemblyReference.cache
+C:\Users\james\OneDrive\Desktop\devCodeCamp\RPSLS C#\RPSLS_Game\RPSLS_Game\obj\Debug\netcoreapp3.1\RPSLS_Game.AssemblyInfoInputs.cache
+C:\Users\james\OneDrive\Desktop\devCodeCamp\RPSLS C#\RPSLS_Game\RPSLS_Game\obj\Debug\netcoreapp3.1\RPSLS_Game.AssemblyInfo.cs
+C:\Users\james\OneDrive\Desktop\devCodeCamp\RPSLS C#\RPSLS_Game\RPSLS_Game\obj\Debug\netcoreapp3.1\RPSLS_Game.csproj.CoreCompileInputs.cache
+C:\Users\james\OneDrive\Desktop\devCodeCamp\RPSLS C#\RPSLS_Game\RPSLS_Game\obj\Debug\netcoreapp3.1\RPSLS_Game.dll
+C:\Users\james\OneDrive\Desktop\devCodeCamp\RPSLS C#\RPSLS_Game\RPSLS_Game\obj\Debug\netcoreapp3.1\RPSLS_Game.pdb
+C:\Users\james\OneDrive\Desktop\devCodeCamp\RPSLS C#\RPSLS_Game\RPSLS_Game\obj\Debug\netcoreapp3.1\RPSLS_Game.genruntimeconfig.cache
